@@ -2,7 +2,7 @@
 
 Welcome to the **Chess Game** project! This real-time multiplayer chess game allows two players to compete against each other while other users can join as spectators. The project leverages a range of modern web technologies to provide a seamless and interactive experience.
 
-![2024-07-10](https://github.com/Kshiti-24/Chess-Game-using-Socket-io/assets/101202139/aee798e6-c591-4894-ba1b-16b0ecdc02d5)
+![2024-07-10](https://github.com/ftharsh/Chess.com/blob/main/previews/chess%20board.png)
 
 ## Features
 
@@ -34,25 +34,28 @@ Ensure you have the following installed on your local machine:
 ### Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/chess-game-using-socket-io.git
-    cd chess-game-using-socket-io
-    ```
+
+   ```bash
+   git clone https://github.com/yourusername/chess-game-using-socket-io.git
+   cd chess-game-using-socket-io
+   ```
 
 2. Install dependencies:
-    ```bash
-    npm install
-    ```
+
+   ```bash
+   npm install
+   ```
 
 3. Start the server:
-    ```bash
-    npm start
-    ```
+
+   ```bash
+   npm start
+   ```
 
 4. Open your browser and navigate to:
-    ```
-    http://localhost:3000
-    ```
+   ```
+   http://localhost:3000
+   ```
 
 ## Usage
 
